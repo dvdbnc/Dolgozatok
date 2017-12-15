@@ -1,0 +1,2 @@
+# Dolgozatok
+Programozás dolgozatok.
