@@ -1,0 +1,62 @@
+body {
+    background: black;
+    margin: 0;
+    font-family: Verdana, Geneva, sans-serif
+}
+
+.menuk {
+   text-align: center;
+    width: 420px;
+    margin: 0 auto;
+    border-bottom: 1px solid white;
+}
+
+.menupontok {
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100px;
+    padding: 10px 0;
+}
+
+.fas {
+    padding: 5px;
+}
+
+.doboz {
+    background: #424242;
+    width: 60%;
+    padding: 30px;
+    margin: 0 auto;
+    color: white;
+    margin-top: 30px;
+}
+
+.ido {
+    color: grey;
+}
+
+footer {
+    width: 100%;
+    color: white;
+    text-align: center;
+    background: #212121;
+    height: 60px;
+    padding-top: 20px;
+    font-size: 12px
+}
+
+.szoveg {
+    
+}
+
+.kepek {
+    text-align: center;
+    padding: 15px;
+}
+
+.kepek img {
+    width: 380px;
+    display: inline-block;
+    height: 400px;
+}
